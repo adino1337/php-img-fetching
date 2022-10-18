@@ -1,0 +1,5 @@
+CREATE TABLE `img`( 
+  `id` INT NOT NULL AUTO_INCREMENT , 
+  `img` LONGBLOB NOT NULL , 
+  PRIMARY KEY (`id`)
+) ENGINE = InnoDB;
